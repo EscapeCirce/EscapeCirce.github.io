@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-weight: bold;
+    text-decoration: underline overline;
+    text-align: center;
+}
